@@ -10,11 +10,11 @@ This document contains architecture and implementation guideline to help custome
 
 **Architecture Diagram**
 
-![Architecture Diagram.png](Architecture Diagram.png)
+![Architecture_Diagram.png](Architecture_Diagram.png)
 
 **Implementation Guideline**
 
-Setup AWS Greengrass and AWS IoT
+**Setup AWS Greengrass and AWS IoT**
 
 - Install GG core
   - Go to AWS Greengrass Console
@@ -36,7 +36,7 @@ Setup AWS Greengrass and AWS IoT
 
 
 
-AWS IoT – Rules Engine and Action
+**AWS IoT – Rules Engine and Action**
 
 - Elasticsearch and Kibana
   - Create and Configure ES domain
